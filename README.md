@@ -5,6 +5,10 @@
 
 Previous adventures with Ascom, Bespoke Code, CPAC, Drone Bone, Fingerprint Cards, HTC Sweden, MadinSweden, SKF, Spotify, Swedish Armed Forces, SWIFT Home Lifts.
 
+    Make it work
+    Make it fast
+    Make it beautiful
+
 
 <!---
 mach-at-stepler/mach-at-stepler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
